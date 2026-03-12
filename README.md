@@ -20,3 +20,7 @@ User → Streamlit Dashboard → Python Backend → SQLite Database
 
 ## Use Case
 This system simulates how maintenance issues are tracked in industrial environments to improve operational visibility and reduce machine downtime.
+
+## Dashboard Preview
+
+![Maintenance Dashboard](dashboard.png)
